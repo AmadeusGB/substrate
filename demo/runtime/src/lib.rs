@@ -1,5 +1,6 @@
 // Copyright 2017 Parity Technologies (UK) Ltd.
 // This file is part of Substrate Demo.
+// This is a Test
 
 // Substrate Demo is free software: you can redistribute it and/or modify
 // it under the terms of the GNU General Public License as published by
