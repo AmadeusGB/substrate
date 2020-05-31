@@ -2,6 +2,8 @@
 
 Next-generation framework for blockchain innovation.
 
+Hello,Substrate!
+
 ## Description
 
 At its heart, Substrate is a combination of three technologies: WebAssembly, Libp2p and AfG Consensus. It is both a library for building new blockchains and a "skeleton key" of a blockchain client, able to synchronise to any Substrate-based chain.
